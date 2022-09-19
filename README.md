@@ -1,1 +1,1 @@
-Here you will find common data structures and algorithms files.
+Here you will find rudimentary data structures and algorithms implemented.
